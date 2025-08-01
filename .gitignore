@@ -11,3 +11,5 @@ __pycache__/
 
 # Ignore environment files
 .env
+
+.git-backup/
