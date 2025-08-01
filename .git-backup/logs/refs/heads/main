@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 8a60567cb8c3fec9df59126be6d37ffbe7e2938e Varun Sarna <varun.sarna22@gmail.com> 1753782949 +0530	commit (initial): Initial commit
+8a60567cb8c3fec9df59126be6d37ffbe7e2938e 8a60567cb8c3fec9df59126be6d37ffbe7e2938e Varun Sarna <varun.sarna22@gmail.com> 1753782956 +0530	Branch: renamed refs/heads/master to refs/heads/main
+8a60567cb8c3fec9df59126be6d37ffbe7e2938e e0c242720912bc13f17d927795b1b8cad8c1f003 Varun Sarna <varun.sarna22@gmail.com> 1753790225 +0530	commit (merge): Initial commit
+e0c242720912bc13f17d927795b1b8cad8c1f003 0355706e12b4f7822d878c2aa5e07633f4ae8f16 Varun Sarna <varun.sarna22@gmail.com> 1754047073 +0530	commit: Remove .env from tracking
+0355706e12b4f7822d878c2aa5e07633f4ae8f16 fb61d4c527fd035584c528096ccf5144daa5d84f Varun Sarna <varun.sarna22@gmail.com> 1754047456 +0530	commit: Update .gitignore to include .env
+fb61d4c527fd035584c528096ccf5144daa5d84f f17cbbea01edfcff77f1d26622c986746196edd4 Varun Sarna <varun.sarna22@gmail.com> 1754048699 +0530	rebase (finish): refs/heads/main onto 8a60567cb8c3fec9df59126be6d37ffbe7e2938e
+f17cbbea01edfcff77f1d26622c986746196edd4 b6449810e708d932ba4bcfc6f4a4ff5cd30dca50 Varun Sarna <varun.sarna22@gmail.com> 1754049551 +0530	pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
